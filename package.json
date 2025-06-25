@@ -1,0 +1,22 @@
+{
+  "homepage": "https://Nandhanakp.github.io/FruiTopia",
+
+  "name": "fruitopia",
+  "version": "1.0.0",
+  "description": "FruiTopia is a beautifully designed multi-page **fruit-selling website** created as a **dummy project** using **HTML, CSS, JavaScript, and Bootstrap**. It showcases a modern layout, responsive design, and user-friendly interface — ideal for presenting fresh organic fruits online.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandhanakp/FruiTopia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandhanakp/FruiTopia/issues"
+  },
+  "homepage": "https://github.com/Nandhanakp/FruiTopia#readme"
+}
